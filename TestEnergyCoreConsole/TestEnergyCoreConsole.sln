@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestEnergyCoreConsole", "TestEnergyCoreConsole.csproj", "{F1C2BAA4-8F9B-4DE5-B5F8-9A3555A086CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energy", "..\Energy\Energy.csproj", "{4BA5D4E2-4B4A-4901-91A7-7924ABA7A2A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energy.Attributes", "..\Energy.Attributes\Energy.Attributes.csproj", "{00F2D523-FE47-4F4F-9005-C17E7204BAD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energy.Plugin", "..\Energy.Plugin\Energy.Plugin.csproj", "{221B64F7-C13A-4986-8C34-57C5ADF15E05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnergyLibrary", "..\EnergyLibrary\EnergyLibrary.csproj", "{FF565892-D78C-4CBC-9AF8-218527DE007F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelegramLibrary", "..\TelegramLibrary\TelegramLibrary.csproj", "{AC30F3EC-9C9F-40B0-A80A-C30F4DE65324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C2BAA4-8F9B-4DE5-B5F8-9A3555A086CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C2BAA4-8F9B-4DE5-B5F8-9A3555A086CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C2BAA4-8F9B-4DE5-B5F8-9A3555A086CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C2BAA4-8F9B-4DE5-B5F8-9A3555A086CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA5D4E2-4B4A-4901-91A7-7924ABA7A2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA5D4E2-4B4A-4901-91A7-7924ABA7A2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA5D4E2-4B4A-4901-91A7-7924ABA7A2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA5D4E2-4B4A-4901-91A7-7924ABA7A2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F2D523-FE47-4F4F-9005-C17E7204BAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F2D523-FE47-4F4F-9005-C17E7204BAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F2D523-FE47-4F4F-9005-C17E7204BAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F2D523-FE47-4F4F-9005-C17E7204BAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221B64F7-C13A-4986-8C34-57C5ADF15E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221B64F7-C13A-4986-8C34-57C5ADF15E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221B64F7-C13A-4986-8C34-57C5ADF15E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221B64F7-C13A-4986-8C34-57C5ADF15E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF565892-D78C-4CBC-9AF8-218527DE007F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF565892-D78C-4CBC-9AF8-218527DE007F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF565892-D78C-4CBC-9AF8-218527DE007F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF565892-D78C-4CBC-9AF8-218527DE007F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC30F3EC-9C9F-40B0-A80A-C30F4DE65324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC30F3EC-9C9F-40B0-A80A-C30F4DE65324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC30F3EC-9C9F-40B0-A80A-C30F4DE65324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC30F3EC-9C9F-40B0-A80A-C30F4DE65324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725C3C49-4458-4BFA-B70D-6FE4BF1CE02C}
+	EndGlobalSection
+EndGlobal
